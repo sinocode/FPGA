@@ -1,2 +1,2 @@
 # FPGA
-FPGA
+FPGA VHDL
